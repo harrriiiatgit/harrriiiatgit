@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hari
+# Hi there! I'm Hari
 
 ## About Me
 - Electronics and Communication Engineering Student  
