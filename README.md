@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Hari
 
-<!--
-**harrriiiatgit/harrriiiatgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Electronics and Communication Engineering Student  
+💻 Interested in Programming and Technology  
+📊 Currently learning Machine Learning  
+🔧 Working with Python, MATLAB and C  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- MATLAB
+- C Programming
+- Basic Machine Learning
+- Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures & Algorithm
+- Git & GitHub
+- Machine Learning
+
+## Projects
+- Used Car Price Prediction using Linear Regression
+- LPC2148 Password Protected Motor Control System
+- Semantic Aided Few Shot Learning
+
+## Connect With Me
+GitHub: https://github.com/harrriiiatgit
